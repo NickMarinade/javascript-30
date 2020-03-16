@@ -3,5 +3,5 @@
 
 
 
-- [drum kit](https://github.com/KLisabeth/drum-kit)
-  [live](https://klisabeth.github.io/drum-kit/)
+- 1. [drum kit](https://github.com/KLisabeth/drum-kit)
+- [live](https://klisabeth.github.io/drum-kit/)
