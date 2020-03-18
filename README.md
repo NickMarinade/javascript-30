@@ -7,3 +7,6 @@
 - [live](https://klisabeth.github.io/drum-kit/)
 2. - [Clock](https://github.com/NickMarinade/Clock-)
 - [live](https://nickmarinade.github.io/Clock-/)
+3. - [Сss-variables](https://github.com/NickMarinade/css-variables)
+- [live](https://nickmarinade.github.io/css-variables/)
+
