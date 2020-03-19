@@ -11,6 +11,8 @@
 - [live](https://nickmarinade.github.io/css-variables/)
 4. - [Flex-panel-gallery](https://github.com/KLisabeth/flex-panel-gallery)
 - [live](https://nickmarinade.github.io/flex-panel-gallery/)
+5. - [Type-ahead](https://github.com/KLisabeth/type-ahead)
+- [live](https://klisabeth.github.io/type-ahead/)
 
 
 
