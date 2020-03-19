@@ -9,4 +9,8 @@
 - [live](https://nickmarinade.github.io/Clock-/)
 3. - [Сss-variables](https://github.com/NickMarinade/css-variables)
 - [live](https://nickmarinade.github.io/css-variables/)
+4. - [Flex-panel-gallery](https://github.com/KLisabeth/flex-panel-gallery)
+- [live](https://nickmarinade.github.io/flex-panel-gallery/)
+
+
 
