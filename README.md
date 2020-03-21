@@ -1,4 +1,4 @@
-### Main repo for **javascript 30** challenge, from **virtual-learning group #4**([Mykola Marenich](https://github.com/NickMarinade), [Kateryna Lisabeth](https://github.com/KLisabeth)) and [Luis Alejandro Montilla](https://github.com/AlejoVE)
+### Main repo for **javascript 30** challenge, from **virtual-learning group #4**[Mykola Marenich](https://github.com/NickMarinade), [Kateryna Lisabeth](https://github.com/KLisabeth) and [Luis Alejandro Montilla](https://github.com/AlejoVE)
 
 
 
