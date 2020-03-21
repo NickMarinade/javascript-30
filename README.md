@@ -1,4 +1,4 @@
-### Main repo for **javascript 30** challenge, from **virtual-learning group #4**([Mykola Marenich](https://github.com/NickMarinade) and [Kateryna Lisabeth](https://github.com/KLisabeth))
+### Main repo for **javascript 30** challenge, from **virtual-learning group #4**([Mykola Marenich](https://github.com/NickMarinade), [Kateryna Lisabeth](https://github.com/KLisabeth)) and [Luis Alejandro Montilla](https://github.com/AlejoVE)
 
 
 
@@ -13,6 +13,8 @@
 - [live](https://nickmarinade.github.io/flex-panel-gallery/)
 5. - [Type-ahead](https://github.com/KLisabeth/type-ahead)
 - [live](https://klisabeth.github.io/type-ahead/)
+6. - [HTML-5-canvas](https://github.com/NickMarinade/HTML-5-canvas)
+- [live](https://klisabeth.github.io/HTML-5-canvas/)
 
 
 
