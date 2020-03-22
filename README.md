@@ -15,6 +15,8 @@
 - [live](https://klisabeth.github.io/type-ahead/)
 6. - [HTML-5-canvas](https://github.com/NickMarinade/HTML-5-canvas)
 - [live](https://klisabeth.github.io/HTML-5-canvas/)
+7. - [Hold Shift to Check Multiple Checkboxes](https://github.com/NickMarinade/Hold-Shift-to-Check-Multiple)
+- [live](https://nickmarinade.github.io/Hold-Shift-to-Check-Multiple/)
 
 
 
