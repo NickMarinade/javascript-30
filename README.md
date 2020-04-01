@@ -17,6 +17,10 @@
 - [live](https://klisabeth.github.io/HTML-5-canvas/)
 7. - [Hold Shift to Check Multiple Checkboxes](https://github.com/NickMarinade/Hold-Shift-to-Check-Multiple)
 - [live](https://nickmarinade.github.io/Hold-Shift-to-Check-Multiple/)
+8. - [Custom-HTML5-Video-Player](https://github.com/KLisabeth/Custom-HTML5-Video-Player)
+- [live](https://klisabeth.github.io/Custom-HTML5-Video-Player/)
+
+
 
 
 
