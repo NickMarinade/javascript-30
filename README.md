@@ -19,6 +19,8 @@
 - [live](https://nickmarinade.github.io/Hold-Shift-to-Check-Multiple/)
 8. - [Custom-HTML5-Video-Player](https://github.com/KLisabeth/Custom-HTML5-Video-Player)
 - [live](https://klisabeth.github.io/Custom-HTML5-Video-Player/)
+9. - [Slide-in-on-Scroll](https://github.com/NickMarinade/Slide-in-on-Scroll)
+- [live](https://nickmarinade.github.io/Slide-in-on-Scroll/)
 
 
 
